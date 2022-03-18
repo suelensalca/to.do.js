@@ -4,6 +4,5 @@
 </div>
 <h3>Screenshot</h3>
 <div align="center">
-    <img src="/images/landpage.png">
     <img src="/images/list.png">
 </div>
